@@ -1,1 +1,0 @@
-CMakeLists.txt not found in \\wsl.localhost\Ubuntu-24.04\home\rolf\CProgs\gui_ex_02_a Select CMakeLists.txt
